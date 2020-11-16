@@ -1,0 +1,26 @@
+table,tr {
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5px;
+}
+#outline {
+  color: #99dbfc;
+  border: 2px solid #99dbfc;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.total {
+  color:red;
+  font-weight: bold;
+  font-size: 36;
+}
+
+.center {
+  max-width: 1100px;
+  margin: auto;
+}

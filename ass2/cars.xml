@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<carRecord>
+  <car>
+    <category>sedan</category>
+    <availability>True</availability>
+    <brand>Toyota</brand>
+    <model>Camry</model>
+    <model_year>2019</model_year>
+    <mileage>10000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>120</price_per_day>
+    <description>Engine: 208HP - 2L 4 Cylinder Engine, Transmission: Automatic, Exterior Color: Silver, Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>suv</category>
+    <availability>True</availability>
+    <brand>Holden</brand>
+    <model>Captiva</model>
+    <model_year>2019</model_year>
+    <mileage>15000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>7</seats>
+    <numDays>1</numDays>
+    <price_per_day>150</price_per_day>
+    <description>Engine: MULTI POINT F/INJ 2.4L 4 Cylinder Engine, Transmission: Automatic, Exterior Color: White, Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>suv</category>
+    <availability>True</availability>
+    <brand>Jeep</brand>
+    <model>Cherokee</model>
+    <model_year>2017</model_year>
+    <mileage>20000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>7</seats>
+    <numDays>1</numDays>
+    <price_per_day>200</price_per_day>
+    <description>Engine: 3.6-Liter V6 24-Valve VVT Engine with ESS, Transmission: Automatic, Exterior Color: White, Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>sedan</category>
+    <availability>False</availability>
+    <brand>Honda</brand>
+    <model>Civic</model>
+    <model_year>2018</model_year>
+    <mileage>15000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>100</price_per_day>
+    <description>Engine: 4 cylinder Petrol Turbo Intercooled 1.5L, Transmission: Automatic, Exterior Color: Modern Steel (Metallic), Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>sedan</category>
+    <availability>False</availability>
+    <brand>Mercedes Benz</brand>
+    <model>GLC</model>
+    <model_year>2019</model_year>
+    <mileage>14000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>400</price_per_day>
+    <description>Engine: 2.0-litre turbocharged four-cylinder, Transmission: Automatic, Exterior Color: Blue, Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>hatchback</category>
+    <availability>False</availability>
+    <brand>Volkswagen</brand>
+    <model>Golf</model>
+    <model_year>2019</model_year>
+    <mileage>16000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>250</price_per_day>
+    <description>Engine: 2.0L TSI DOHC, Transmission: Automatic, Exterior Color: White, Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>suv</category>
+    <availability>True</availability>
+    <brand>Suzuki</brand>
+    <model>Jimny</model>
+    <model_year>2005</model_year>
+    <mileage>30000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>180</price_per_day>
+    <description>Engine: 1.3-litre, Transmission: Manual, Exterior Color: Blue, Interior Color: Grey</description>
+  </car>
+
+  <car>
+    <category>sedan</category>
+    <availability>True</availability>
+    <brand>Hyundai</brand>
+    <model>Sonata</model>
+    <model_year>2012</model_year>
+    <mileage>30000</mileage>
+    <fuel_type>petrol/electric</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>180</price_per_day>
+    <description>Engine: Gas/Electric I-4 2.0 L/122, Transmission: Automatic, Exterior Color: Grey (Metallic), Interior Color: Black</description>
+  </car>
+
+  <car>
+    <category>suv</category>
+    <availability>True</availability>
+    <brand>Nissan</brand>
+    <model>X-trail</model>
+    <model_year>2013</model_year>
+    <mileage>15000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>200</price_per_day>
+    <description>Engine: 2.5LL I-4 cyl, Transmission: Automatic, Exterior Color: Gun Metallic, Interior Color: Charcoal</description>
+  </car>
+
+  <car>
+    <category>sedan</category>
+    <availability>True</availability>
+    <brand>BMW</brand>
+    <model>320i</model>
+    <model_year>2016</model_year>
+    <mileage>10000</mileage>
+    <fuel_type>petrol</fuel_type>
+    <seats>5</seats>
+    <numDays>1</numDays>
+    <price_per_day>400</price_per_day>
+    <description>Engine: 2.0L I-4 cyl, Transmission: Automatic, Exterior Color: Alpine White, Interior Color: Black</description>
+  </car>
+</carRecord>
